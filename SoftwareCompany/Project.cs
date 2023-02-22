@@ -9,7 +9,8 @@ namespace SoftwareCompany
         public int Id { get; set; }
         public string Name { get; set; }
         public string Code { get; set; }
-        public CompanyDetailChart CompanyDetailChartId { get; set; }
+        public int ContractId { get; set; }
+        public Contract Contract { get; set; }
         public List<ProjectEmployee> ProjectEmployees { get; set; }
     }
 }
