@@ -4,4 +4,4 @@ In the company table, there is the name of the company, tax number, address,. Th
 
 Draw.io drawing of the design of the software company database above:
 
-![image](https://user-images.githubusercontent.com/119699844/220661227-8c0423cb-52b4-42a9-bf15-1c207d80be90.png)
+![image](https://github.com/BeratEgePercinel/SoftwareCompany/assets/119699844/1530e0eb-7236-4a33-845e-81b5c2085ef8)
